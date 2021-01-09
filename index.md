@@ -3,7 +3,18 @@
 ## **Who am I?**
 
 
-My name is Harry You and I'm a 3rd year undergraduate at UCSD. My hobbies include Photography, Urban Exploration, and building Gunpla! For more of my Urbex photos, visit my Instagram: [chronically_awkward](https://www.instagram.com/chronically_awkward/) For more info about me, click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+My name is Harry You and I'm a 3rd year undergraduate at UCSD. My hobbies include Photography, Urban Exploration, and building Gunpla! 
+
+####Some Places I've visited:
+
+Half Moon Tunnel UCSD
+
+Okutama Ropeway
+
+Royal Hotel 
+
+Bighorn Mine
+For more of my Urbex photos, visit my Instagram: [chronically_awkward](https://www.instagram.com/chronically_awkward/) For more info about me, click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 #### I have proficiency in:
   - C
