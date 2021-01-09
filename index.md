@@ -1,19 +1,24 @@
 # **Welcome to my GitHub Page!**
 
 ## **Who am I?**
-
+<img src="My Profile Pic.jpg" />
 
 My name is Harry You and I'm a 3rd year undergraduate at UCSD. My hobbies include Photography, Urban Exploration, and building Gunpla! 
 
 ####Some Places I've visited:
 
+<img src="Half Moon Tunnel.jpg" />
 Half Moon Tunnel UCSD
 
+<img src="Okutama Ropeway.jpg" />
 Okutama Ropeway
 
+<img src="Royal Hotel.jpg" />
 Royal Hotel 
 
+<img src="Big Horn Mine.jpg" />
 Bighorn Mine
+
 For more of my Urbex photos, visit my Instagram: [chronically_awkward](https://www.instagram.com/chronically_awkward/) For more info about me, click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 #### I have proficiency in:
@@ -46,6 +51,7 @@ class HelloWorld {
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
+#### Relative Links
 
 
 
