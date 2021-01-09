@@ -51,11 +51,4 @@ class HelloWorld {
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-#### Relative Links to the Pictures on my Profile
-[My Profile Pic](My Profile Pic.jpg)
-[Half Moon Tunnel](Half Moon Tunnel.jpg)
-[Okutama Ropeway](Okutama Ropeway.jpg)
-[Royal Hotel](Royal Hotel.jpg)
-[Big Horn Mine](Big Horn Mine.jpg)
-
-
+#### [Relative Link to Readme](README.md)
